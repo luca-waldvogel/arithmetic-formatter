@@ -25,6 +25,7 @@ It was created as part of my **Scientific Computing with Python Certification** 
 ### Input
 ```python
 print(arithmetic_arranger(["3801 - 2", "123 + 49"]))
+```python
 
 ### Output
   3801      123
