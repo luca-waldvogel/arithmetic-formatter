@@ -2,7 +2,7 @@
 
 This project is an **arithmetic formatter** that can format up to five addition and subtraction math problems with numbers of up to four digits.  
 
-It was created as part of my **Scientific Computing with Python Certification** from freeCodeCamp.  
+It was created as part of my **Scientific Computing with Python Certification**.  
 👉 [View my certification here](https://freecodecamp.org/certification/lucawaldvogel/scientific-computing-with-python-v7)
 
 ---
