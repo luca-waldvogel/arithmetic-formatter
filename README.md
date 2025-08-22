@@ -24,7 +24,7 @@ It was created as part of my **Scientific Computing with Python Certification** 
 
 ### Input
 ```python
-print(arithmetic_arranger(["3801 - 2", "123 + 49"]))
+print(arithmetic_arranger(["3801 - 2", "123 + 49"], True))
 ```
 
 ### Output
@@ -32,4 +32,5 @@ print(arithmetic_arranger(["3801 - 2", "123 + 49"]))
   3801      123
 -    2    +  49
 ------    -----
+  3799      172
 ```
